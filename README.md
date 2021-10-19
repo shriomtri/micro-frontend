@@ -11,3 +11,7 @@ TODO: elaborate
 Filtering and recoloring the docker compose log using [colout](https://github.com/nojhan/colout)
 
     docker-compose up --build | colout "team_green_1" green | colout "team_blue_1" cyan | colout "team_red_1" red | colout "nginx_1" white | grep -v "\.jpg"
+
+<br/>
+
+Reference: [Micor Frontend Org](https://micro-frontends.org/)
